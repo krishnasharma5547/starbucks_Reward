@@ -1,0 +1,19 @@
+{
+  "name": "tailwind-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "start":"vite"
+  },
+  "author": "krishna sharma",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.0",
+    "tailwindcss": "^2.1.4"
+  },
+  "dependencies": {
+    "vite": "^2.3.6"
+  }
+}
